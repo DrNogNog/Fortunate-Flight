@@ -1,0 +1,1251 @@
+L
+A Qingdao
+A Paris
+A Lima
+A Los Angeles
+A Khartoum
+A Barcelona
+A Santiago
+A Tokyo
+A Delhi
+A Guangzhou
+A Johannesburg
+A Paris
+A Dhaka
+A Chennai
+A Jinan
+A Luanda
+A Surat
+A Hyderabad
+A Beijing
+A Atlanta
+A Chennai
+A Dar es Salaam
+A Osaka
+A Hong Kong
+A Toronto
+A Saint Petersburg
+A Manila
+A Washington, D.C.
+A Tehran
+A Miami
+A Khartoum
+A Seoul
+A Dar es Salaam
+A Sao Paulo
+A Baghdad
+A Guadalajara
+A Ahmedabad
+A Moscow
+A Philadelphia
+A Fukuoka
+a Tokyo
+1414 113
+a Guadalajara
+385 170
+a Qingdao
+782 37
+a Ahmedabad
+1411 50
+a Los Angeles
+517 84
+a Tehran
+86 61
+a Osaka
+1289 162
+a Barcelona
+1261 158
+a Fukuoka
+550 191
+a Seoul
+207 1
+a Manila
+364 96
+a Khartoum
+56 194
+a Tokyo
+98 1
+a Saint Petersburg
+1330 107
+a Baghdad
+15 15
+a Chennai
+1169 127
+a Beijing
+807 97
+a Seoul
+1134 34
+a Jinan
+220 102
+a Dhaka
+122 101
+a Luanda
+1342 71
+a Guadalajara
+195 35
+a Fukuoka
+28 37
+a Beijing
+678 83
+a Khartoum
+947 39
+a Hyderabad
+490 104
+a Sao Paulo
+62 83
+a Baghdad
+1319 24
+a Delhi
+718 115
+a Baghdad
+204 114
+a Surat
+430 74
+a Miami
+918 87
+a Surat
+455 95
+a Fukuoka
+1077 131
+a Luanda
+311 21
+a Seoul
+1132 155
+a Lima
+432 177
+a Surat
+494 102
+a Washington, D.C.
+667 12
+a Hong Kong
+200 55
+a Los Angeles
+1195 4
+a Ahmedabad
+610 161
+a Delhi
+508 110
+a Atlanta
+17 21
+a Washington, D.C.
+162 23
+a Luanda
+1216 15
+a Tokyo
+1095 117
+a Philadelphia
+1436 117
+a Atlanta
+277 164
+a Manila
+720 147
+a Tokyo
+1017 25
+a Jinan
+76 66
+a Toronto
+844 84
+a Santiago
+7 115
+a Surat
+388 55
+a Tehran
+836 174
+a Paris
+371 110
+a Sao Paulo
+516 113
+a Luanda
+1041 174
+a Dhaka
+1076 34
+a Guadalajara
+162 144
+a Los Angeles
+424 33
+a Philadelphia
+565 167
+a Luanda
+1411 44
+a Osaka
+1005 82
+a Fukuoka
+1253 194
+a Atlanta
+141 102
+a Fukuoka
+1119 112
+a Toronto
+782 150
+a Dhaka
+1006 96
+a Miami
+961 126
+a Lima
+360 41
+a Lima
+14 50
+a Dhaka
+1028 191
+a Philadelphia
+502 115
+a Washington, D.C.
+1380 59
+a Atlanta
+548 113
+a Fukuoka
+694 183
+a Saint Petersburg
+261 26
+a Jinan
+196 53
+a Delhi
+315 78
+a Delhi
+625 92
+a Ahmedabad
+105 98
+a Philadelphia
+111 15
+a Atlanta
+321 31
+a Ahmedabad
+1244 59
+a Osaka
+799 173
+a Khartoum
+302 7
+a Luanda
+823 190
+a Chennai
+754 139
+a Los Angeles
+1028 78
+a Miami
+1123 183
+a Dar es Salaam
+1353 102
+a Beijing
+473 88
+a Paris
+698 95
+a Barcelona
+545 170
+a Chennai
+382 85
+a Miami
+821 114
+a Luanda
+584 161
+a Fukuoka
+38 26
+a Jinan
+536 148
+a Manila
+1403 133
+a Washington, D.C.
+917 130
+a Sao Paulo
+1169 81
+a Santiago
+689 42
+a Ahmedabad
+279 30
+a Los Angeles
+881 35
+a Jinan
+1293 148
+a Guangzhou
+1366 38
+a Santiago
+317 123
+a Tokyo
+454 104
+a Atlanta
+626 177
+a Surat
+69 135
+a Luanda
+1426 19
+a Barcelona
+879 46
+a Los Angeles
+1329 90
+a Beijing
+402 60
+a Lima
+727 161
+a Hyderabad
+601 186
+a Khartoum
+294 183
+a Hyderabad
+267 131
+a Manila
+771 102
+a Osaka
+103 68
+a Atlanta
+848 147
+a Atlanta
+811 179
+a Toronto
+402 131
+a Guadalajara
+804 28
+a Qingdao
+16 114
+a Beijing
+1218 14
+a Moscow
+498 195
+a Surat
+528 48
+a Manila
+865 4
+a Guangzhou
+328 24
+a Dhaka
+227 50
+a Manila
+124 91
+a Philadelphia
+218 104
+a Dar es Salaam
+209 34
+a Chennai
+641 179
+a Barcelona
+1433 171
+a Lima
+957 60
+a Dhaka
+1292 111
+a Qingdao
+647 40
+a Khartoum
+417 3
+a Tehran
+751 180
+a Barcelona
+778 118
+a Luanda
+204 59
+a Ahmedabad
+541 34
+a Ahmedabad
+539 33
+a Los Angeles
+824 193
+a Tehran
+1412 39
+s Luanda
+1418
+s Toronto
+857
+s Lima
+22
+s Tehran
+100
+s Washington
+175
+s Dhaka
+132
+s Jinan
+90
+s Beijing
+812
+s Barcelona
+1268
+s Dhaka
+228
+s Dhaka
+229
+s Osaka
+1295
+s Los Angeles
+527
+s Ahmedabad
+620
+s Tokyo
+461
+s Luanda
+588
+s Tehran
+1420
+s Jinan
+228
+s Hyderabad
+497
+s Manila
+879
+s Delhi
+720
+s Surat
+442
+s Lima
+21
+s Delhi
+630
+s Tehran
+836
+s Dhaka
+1042
+s Atlanta
+558
+s Khartoum
+300
+s Luanda
+1050
+s Lima
+445
+s Hong Kong
+213
+s Delhi
+318
+s Manila
+725
+s Dhaka
+1300
+s Tokyo
+1028
+s Lima
+23
+s Qingdao
+24
+s Ahmedabad
+542
+s Barcelona
+1274
+s Santiago
+7
+s Surat
+467
+s Chennai
+392
+s Fukuoka
+551
+s Fukuoka
+704
+s Fukuoka
+34
+s Fukuoka
+1131
+s Ahmedabad
+541
+s Philadelphia
+566
+s Surat
+506
+s Khartoum
+952
+s Guadalajara
+389
+s Tokyo
+1031
+s Baghdad
+24
+s Khartoum
+307
+s Lima
+370
+s Atlanta
+812
+s Sao Paulo
+1176
+s Manila
+1411
+s Khartoum
+294
+s Seoul
+1148
+s Guadalajara
+814
+s Khartoum
+314
+s Manila
+1410
+s Khartoum
+302
+s Philadelphia
+230
+s Lima
+728
+s Ahmedabad
+548
+s Fukuoka
+1121
+s Baghdad
+206
+s Ahmedabad
+1424
+s Santiago
+11
+s Lima
+364
+s Manila
+128
+s Tokyo
+460
+s Surat
+469
+s Barcelona
+1274
+s Guadalajara
+816
+s Guadalajara
+811
+s Luanda
+597
+s Atlanta
+852
+s Guadalajara
+811
+s Manila
+1409
+s Miami
+918
+s Luanda
+593
+s Barcelona
+1440
+s Dhaka
+132
+s Lima
+363
+s Ahmedabad
+1251
+s Los Angeles
+521
+s Fukuoka
+38
+s Beijing
+686
+s Fukuoka
+1126
+s Guadalajara
+196
+s Baghdad
+206
+s Los Angeles
+522
+s Ahmedabad
+553
+s Ahmedabad
+1416
+s Philadelphia
+113
+s Dar es Salaam
+217
+s Lima
+958
+s Tehran
+752
+s Washington
+680
+s Tehran
+756
+s Khartoum
+299
+s Dhaka
+1084
+s Manila
+878
+s Ahmedabad
+541
+s Ahmedabad
+119
+s Ahmedabad
+616
+s Tehran
+756
+s Tehran
+765
+s Philadelphia
+569
+s Ahmedabad
+283
+s Washington
+1387
+s Saint Petersburg
+274
+s Dhaka
+1037
+s Philadelphia
+506
+s Luanda
+593
+s Philadelphia
+232
+s Dhaka
+233
+s Baghdad
+1329
+s Chennai
+768
+s Barcelona
+546
+s Sao Paulo
+529
+s Jinan
+543
+s Philadelphia
+121
+s Tehran
+759
+s Lima
+964
+s Miami
+923
+s Los Angeles
+1195
+s Jinan
+200
+s Jinan
+224
+s Beijing
+1220
+s Lima
+368
+s Philadelphia
+1436
+s Tehran
+95
+s Miami
+928
+s Baghdad
+1326
+s Beijing
+483
+s Qingdao
+647
+s Fukuoka
+42
+s Los Angeles
+1033
+s Los Angeles
+836
+s Osaka
+1010
+s Manila
+865
+s Miami
+825
+s Barcelona
+553
+s Tehran
+757
+s Jinan
+88
+s Luanda
+1355
+s Saint Petersburg
+266
+s Surat
+459
+s Philadelphia
+576
+s Philadelphia
+1441
+s Paris
+709
+s Manila
+734
+s Toronto
+785
+s Manila
+135
+s Lima
+368
+s Lima
+967
+s Delhi
+731
+s Beijing
+403
+s Santiago
+692
+s Tehran
+1416
+s Dar es Salaam
+1358
+s Seoul
+1134
+s Philadelphia
+579
+s Guangzhou
+342
+s Osaka
+116
+s Guadalajara
+397
+s Dhaka
+1040
+s Toronto
+793
+s Qingdao
+25
+s Baghdad
+1332
+s Osaka
+1017
+s Los Angeles
+1338
+s Ahmedabad
+551
+s Guangzhou
+331
+s Tehran
+1420
+s Dar es Salaam
+215
+s Tokyo
+462
+s Atlanta
+859
+s Fukuoka
+554
+s Ahmedabad
+1423
+s Jinan
+229
+s Dhaka
+1294
+s Ahmedabad
+1250
+s Ahmedabad
+621
+s Delhi
+626
+s Manila
+129
+s Luanda
+204
+s Surat
+440
+s Atlanta
+22
+s Ahmedabad
+1251
+s Khartoum
+302
+s Surat
+73
+s Guadalajara
+209
+s Manila
+721
+s Toronto
+793
+s Dar es Salaam
+216
+s Manila
+785
+s Ahmedabad
+116
+s Barcelona
+548
+s Dhaka
+1041
+s Khartoum
+305
+s Los Angeles
+1208
+s Dhaka
+1079
+s Tokyo
+1422
+s Manila
+722
+s Osaka
+1298
+s Surat
+431
+s Khartoum
+294
+s Barcelona
+1445
+s Luanda
+589
+s Chennai
+645
+s Luanda
+835
+s Manila
+773
+s Fukuoka
+1256
+s Dhaka
+1300
+s Philadelphia
+230
+s Philadelphia
+571
+s Hong Kong
+209
+s Khartoum
+419
+s Paris
+706
+s Sao Paulo
+516
+s Tehran
+843
+s Khartoum
+429
+s Khartoum
+66
+s Guadalajara
+815
+s Khartoum
+63
+s Guadalajara
+397
+s Baghdad
+218
+s Saint Petersburg
+274
+s Dar es Salaam
+1359
+s Lima
+439
+s Khartoum
+312
+s Luanda
+1345
+s Seoul
+220
+s Tokyo
+1020
+s Atlanta
+25
+s Sao Paulo
+1179
+s Manila
+732
+s Philadelphia
+122
+s Manila
+723
+s Baghdad
+205
+s Osaka
+1018
+s Tehran
+762
+s Luanda
+1412
+s Toronto
+845
+s Qingdao
+24
+s Surat
+528
+s Chennai
+385
+s Ahmedabad
+542
+s Philadelphia
+1447
+s Lima
+733
+s Guadalajara
+205
+s Delhi
+326
+s Chennai
+754
+s Atlanta
+823
+s Manila
+377
+s Khartoum
+303
+s Delhi
+512
+s Surat
+498
+s Guadalajara
+165
+s Manila
+720
+s Washington
+170
+s Hyderabad
+280
+s Lima
+370
+s Tokyo
+98
+s Toronto
+854
+s Ahmedabad
+618
+s Toronto
+858
+s Tehran
+1421
+s Qingdao
+783
+s Barcelona
+784
+s Santiago
+690
+s Fukuoka
+1082
+s Jinan
+232
+s Chennai
+385
+s Paris
+710
+s Tokyo
+1427
+s Chennai
+754
+s Miami
+920
+s Toronto
+407
+s Guadalajara
+806
+s Miami
+923
+s Philadelphia
+226
+s Manila
+720
+s Manila
+133
+s Toronto
+852
+s Barcelona
+886
+s Sao Paulo
+68
+s Delhi
+630
+s Los Angeles
+428
+s Washington
+917
+s Atlanta
+322
+s Atlanta
+549
+s Manila
+137
+s Miami
+1135
+s Guadalajara
+399
+A Dar es Salaam
+a Qingdao
+1015 95
+u Toronto
+402
+A Lagos
+L
+a Qingdao
+910 139
+R Dar es Salaam
+r Washington
+917
+u Osaka
+103
+R Tokyo
+a Baghdad
+309 68
+L
+R Jinan
+L
+s Washington
+170
+L
+R Hyderabad
+r Lima
+727
+u Khartoum
+302
+A Nagoya
+u Los Angeles
+1329
+a Luanda
+1364 38
+r Philadelphia
+1436
+A Johannesburg
+A New York City
+a Los Angeles
+270 149
+A Los Angeles
+R Manila
+r Beijing
+473
+A Beijing
+r Tokyo
+1414
+a Lima
+1003 11
+r Dhaka
+227
+s Fukuoka
+38
+s Moscow
+499
+u Delhi
+508
+r Jinan
+220
+L
+a Qingdao
+314 81
+s Manila
+878
+a Sao Paulo
+457 134
+L
+R Hong Kong
+A Nagoya
+s Lima
+962
+u Baghdad
+1319
+L
+R Dhaka
+L
+u Lima
+432
+a Barcelona
+756 138
+s Toronto
+784
+u Dar es Salaam
+209
+R Miami
+u Washington
+1380
+s Manila
+784
+A London
+s Surat
+459
+L
+A Manila
+A Istanbul
+r Toronto
+782
+r Saint Petersburg
+1330
+s Guadalajara
+396
+A Tianjin
+r Tokyo
+98
+R Luanda
+r Dhaka
+122
+R Lagos
+u Fukuoka
+694
+r Jinan
+76
+u Sao Paulo
+457
+a Philadelphia
+455 175
+L
+u Delhi
+718
+r Osaka
+1005
+A Harbin
+u Luanda
+584
+r Los Angeles
+424
+L
+u Los Angeles
+824
+L
+R Khartoum
+r Barcelona
+545
+r Philadelphia
+502
+R Moscow
+r Hyderabad
+601
+u Los Angeles
+824
+A Nagoya
+R Washington, D.C.
+L
+L
+s Qingdao
+790
+R Sao Paulo
+A Shanghai
+A Paris
+u Beijing
+402
+r Philadelphia
+455
+s Luanda
+1053
+a Saint Petersburg
+322 141
+r Osaka
+103
+r Barcelona
+879
+a Baghdad
+732 76
+r Baghdad
+309
+a Tehran
+1213 65
+a Tehran
+270 7
+R Manila
+L
+A Nanjing
+r Luanda
+204
+L
+u Los Angeles
+824
+a Seoul
+161 99
+s Ahmedabad
+546
+a Atlanta
+920 91
+a Tianjin
+85 108
+a Lima
+1345 173
+r Manila
+865
+r Luanda
+584
+A Singapore
+L
+u Manila
+364
+L
+A Kolkata
+a Nanjing
+1014 161
+u Jinan
+1293
+u Miami
+918
+L
+R Johannesburg
+L
+L
+A Kuala Lumpur
+u Miami
+961
+R Atlanta
+A Ahmedabad
+A Istanbul
+u Baghdad
+732
+a New York City
+1256 182
+R Qingdao
+r Guadalajara
+385
+R Guadalajara
+s Surat
+463
+r Nanjing
+1014
+A Hangzhou
+A Lahore
+s Los Angeles
+1198
+R Seoul
+A Fukuoka
+A Foshan
+u Sao Paulo
+62
+L
+a Beijing
+9 165
+a Istanbul
+877 85
+R Kolkata
+R Foshan
+R Toronto
+a Barcelona
+1008 74
+s Sao Paulo
+1183
+A Shenzhen
+A Hong Kong
+A Shenzhen
+R Philadelphia
+u Toronto
+844
+R Nagoya
+a London
+599 14
+A Chengdu
+a Paris
+1063 129
+r Lima
+14
+L
+s Luanda
+1374
+a Tehran
+371 109
+r Miami
+918
+a New York City
+272 66
+L
+a Harbin
+633 24
+R Tehran
+A Khartoum
+a Shenzhen
+930 112
+a Istanbul
+1125 123
+u Qingdao
+782
+L
+R Shanghai
+s Osaka
+808
+a Baghdad
+658 29
+u Tianjin
+85
+r Atlanta
+321
+r Khartoum
+302
+A Los Angeles
+A Dhaka
+L
+s Qingdao
+660
+A Toronto
+u Luanda
+1041
+u Guadalajara
+195
+L
+a Hangzhou
+553 187
+s Fukuoka
+1256
+L
+L
+u Osaka
+799

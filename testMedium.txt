@@ -1,0 +1,766 @@
+L
+A Manila
+A Jakarta
+A Saint Petersburg
+A Atlanta
+A Hong Kong
+A Philadelphia
+A Chicago
+A Foshan
+A Fukuoka
+A Chennai
+A Dallas
+A Guangzhou
+A Chengdu
+A Ho Chi Minh City
+A Bangkok
+A Nanjing
+A Moscow
+A Chengdu
+A Lahore
+A Philadelphia
+A Bogota
+A Pune
+A Suzhou
+A Dongguan
+A Paris
+A Chennai
+A Dongguan
+A Lima
+A Qingdao
+A Kolkata
+a Nanjing
+1262 198
+a Dongguan
+72 86
+a Foshan
+776 178
+a Bangkok
+1177 9
+a Saint Petersburg
+59 145
+a Pune
+925 113
+a Chicago
+155 192
+a Atlanta
+1400 4
+a Jakarta
+795 145
+a Atlanta
+1177 147
+a Suzhou
+93 109
+a Paris
+95 197
+a Nanjing
+916 142
+a Pune
+1133 134
+a Chennai
+307 49
+a Qingdao
+91 177
+a Dallas
+500 174
+a Atlanta
+457 94
+a Lima
+993 151
+a Chengdu
+1108 189
+a Fukuoka
+44 70
+a Paris
+1107 25
+a Lima
+1052 62
+a Guangzhou
+1410 160
+a Manila
+602 45
+a Nanjing
+1410 105
+a Guangzhou
+1211 170
+a Foshan
+1427 175
+a Fukuoka
+279 183
+a Philadelphia
+329 169
+a Moscow
+1385 5
+a Chennai
+1258 163
+a Chicago
+1304 114
+a Dongguan
+1221 26
+a Philadelphia
+182 26
+a Suzhou
+396 159
+a Chengdu
+524 33
+a Ho Chi Minh City
+869 63
+a Kolkata
+656 1
+a Atlanta
+246 41
+a Chengdu
+626 182
+a Saint Petersburg
+1133 134
+a Suzhou
+348 13
+a Chicago
+1337 18
+a Philadelphia
+1224 23
+a Fukuoka
+68 193
+a Philadelphia
+793 20
+a Saint Petersburg
+229 197
+a Bogota
+818 86
+a Chengdu
+826 46
+a Bangkok
+575 16
+a Paris
+101 180
+a Fukuoka
+406 174
+a Ho Chi Minh City
+1114 108
+a Lahore
+1163 131
+a Ho Chi Minh City
+118 111
+a Foshan
+333 156
+a Kolkata
+287 0
+a Lahore
+1263 28
+a Bogota
+980 116
+a Bogota
+1392 84
+a Suzhou
+111 84
+a Hong Kong
+726 56
+a Kolkata
+663 118
+a Saint Petersburg
+1369 41
+a Atlanta
+1138 89
+a Qingdao
+406 78
+a Lima
+1019 194
+a Kolkata
+1242 80
+a Foshan
+810 6
+a Atlanta
+936 36
+a Manila
+933 147
+a Ho Chi Minh City
+612 31
+a Bangkok
+1383 70
+a Kolkata
+324 94
+a Atlanta
+1318 62
+a Fukuoka
+1136 56
+a Atlanta
+348 41
+a Moscow
+1335 129
+a Manila
+1222 33
+a Chengdu
+1374 183
+a Foshan
+313 20
+a Philadelphia
+1211 143
+a Dongguan
+40 104
+a Atlanta
+539 85
+a Chicago
+756 22
+a Suzhou
+20 113
+a Kolkata
+172 34
+a Moscow
+1306 15
+a Qingdao
+465 13
+a Moscow
+921 144
+a Saint Petersburg
+1264 189
+a Bangkok
+965 179
+a Pune
+21 100
+a Saint Petersburg
+1227 183
+a Lahore
+752 15
+a Chicago
+643 117
+a Suzhou
+18 66
+a Guangzhou
+110 16
+a Dongguan
+1279 94
+s Jakarta
+802
+s Foshan
+787
+s Nanjing
+1263
+s Manila
+941
+s Lima
+1060
+s Chengdu
+1120
+s Qingdao
+99
+s Philadelphia
+329
+s Nanjing
+1266
+s Manila
+1235
+s Qingdao
+96
+s Atlanta
+257
+s Kolkata
+666
+s Kolkata
+663
+s Chengdu
+636
+s Ho Chi Minh City
+1120
+s Bogota
+1394
+s Lahore
+1171
+s Paris
+108
+s Ho Chi Minh City
+1120
+s Foshan
+342
+s Qingdao
+417
+s Chennai
+315
+s Foshan
+1431
+s Guangzhou
+1224
+s Nanjing
+928
+s Ho Chi Minh City
+1125
+s Kolkata
+338
+s Dongguan
+1281
+s Moscow
+1314
+s Foshan
+343
+s Dongguan
+1221
+s Paris
+1110
+s Bangkok
+1178
+s Manila
+1229
+s Ho Chi Minh City
+121
+s Paris
+109
+s Manila
+614
+s Foshan
+789
+s Ho Chi Minh City
+120
+s Jakarta
+803
+s Chicago
+770
+s Kolkata
+660
+s Moscow
+1335
+s Saint Petersburg
+1147
+s Philadelphia
+192
+s Nanjing
+916
+s Dallas
+514
+s Ho Chi Minh City
+626
+s Philadelphia
+1225
+s Saint Petersburg
+1377
+s Suzhou
+402
+s Bogota
+993
+s Chennai
+1271
+s Chennai
+307
+s Paris
+106
+s Moscow
+1318
+s Nanjing
+1267
+s Bogota
+991
+s Atlanta
+1139
+s Suzhou
+34
+s Paris
+104
+s Chennai
+1272
+s Ho Chi Minh City
+623
+s Dongguan
+1287
+s Saint Petersburg
+1372
+s Atlanta
+1142
+s Foshan
+320
+s Chicago
+1338
+s Jakarta
+803
+s Foshan
+816
+s Ho Chi Minh City
+122
+s Atlanta
+549
+s Dongguan
+83
+s Saint Petersburg
+70
+s Chengdu
+1384
+s Philadelphia
+796
+s Ho Chi Minh City
+1123
+s Atlanta
+248
+s Atlanta
+1147
+s Suzhou
+115
+s Dongguan
+72
+s Qingdao
+410
+s Chicago
+766
+s Philadelphia
+1221
+s Lima
+1005
+s Atlanta
+1146
+s Lima
+1003
+s Ho Chi Minh City
+1117
+s Paris
+109
+s Atlanta
+1190
+s Moscow
+1388
+s Kolkata
+666
+s Dallas
+506
+s Chennai
+314
+s Pune
+925
+s Lahore
+1274
+s Nanjing
+927
+s Philadelphia
+799
+s Dallas
+505
+s Hong Kong
+727
+s Moscow
+925
+s Qingdao
+417
+s Philadelphia
+336
+s Bangkok
+1178
+s Moscow
+1347
+s Atlanta
+540
+s Guangzhou
+122
+s Atlanta
+1323
+s Philadelphia
+1224
+s Fukuoka
+1140
+s Chicago
+167
+s Bogota
+1401
+s Foshan
+813
+s Bogota
+1403
+s Qingdao
+465
+s Atlanta
+469
+s Pune
+1133
+s Qingdao
+93
+s Moscow
+1316
+s Dongguan
+49
+s Suzhou
+23
+s Qingdao
+468
+s Kolkata
+335
+s Atlanta
+542
+s Kolkata
+666
+s Lima
+996
+s Foshan
+1441
+s Philadelphia
+184
+s Qingdao
+104
+s Atlanta
+1406
+s Foshan
+335
+s Atlanta
+256
+s Suzhou
+28
+s Lima
+1025
+s Saint Petersburg
+1277
+s Bogota
+987
+s Bogota
+981
+s Ho Chi Minh City
+623
+s Kolkata
+337
+s Bogota
+1398
+s Atlanta
+1145
+s Bangkok
+973
+s Manila
+940
+s Atlanta
+351
+s Ho Chi Minh City
+622
+s Kolkata
+667
+s Paris
+104
+s Chennai
+1265
+s Ho Chi Minh City
+881
+s Foshan
+1427
+s Guangzhou
+1225
+s Kolkata
+1251
+s Manila
+941
+s Jakarta
+808
+s Hong Kong
+736
+s Foshan
+1438
+s Dongguan
+1289
+s Saint Petersburg
+1370
+s Hong Kong
+737
+s Dongguan
+75
+s Philadelphia
+340
+s Suzhou
+118
+s Qingdao
+414
+s Bogota
+823
+s Chengdu
+828
+s Foshan
+317
+s Suzhou
+27
+s Saint Petersburg
+1379
+s Ho Chi Minh City
+618
+s Lahore
+766
+s Chicago
+1304
+s Bangkok
+1179
+s Manila
+609
+s Chengdu
+630
+s Paris
+1108
+s Kolkata
+662
+s Hong Kong
+732
+s Pune
+932
+s Chennai
+1258
+s Paris
+95
+s Pune
+938
+s Chengdu
+635
+s Paris
+1118
+s Ho Chi Minh City
+612
+s Ho Chi Minh City
+1117
+s Ho Chi Minh City
+612
+s Kolkata
+667
+s Chennai
+1266
+s Foshan
+782
+s Philadelphia
+330
+s Manila
+1227
+s Lahore
+1170
+s Guangzhou
+114
+s Foshan
+788
+s Guangzhou
+122
+s Atlanta
+544
+s Paris
+1113
+s Pune
+938
+s Dallas
+502
+A Jinan
+a Dallas
+368 9
+r Lahore
+1163
+A Guadalajara
+s Kolkata
+335
+R Saint Petersburg
+a Chicago
+1209 107
+L
+r Fukuoka
+44
+u Nanjing
+916
+R Hong Kong
+u Guangzhou
+1211
+s Atlanta
+946
+A Rio de Janeiro
+u Bangkok
+575
+s Saint Petersburg
+240
+a Paris
+47 91
+u Kolkata
+656
+a Rio de Janeiro
+344 21
+a Dongguan
+822 109
+a Jakarta
+301 168
+L
+R Kolkata
+L
+u Fukuoka
+406
+A Chennai
+r Jakarta
+301
+A Delhi
+L
+u Philadelphia
+329
+L
+a Suzhou
+410 59
+u Atlanta
+1177
+L
+a Suzhou
+1324 112
+R Jakarta
+R Chicago
+a Manila
+433 124
+a Bangkok
+1360 44
+A Dar es Salaam
+r Saint Petersburg
+1227
+u Dongguan
+40
+a Paris
+53 137
+a Dongguan
+477 27
+a Chennai
+1271 197
+R Qingdao
+r Bangkok
+1383
+a Chennai
+149 23
+L
+r Saint Petersburg
+229
+a Chennai
+283 168
+s Lima
+1021
+a Fukuoka
+273 11
+A Mexico City
+a Delhi
+1276 157
+a Ho Chi Minh City
+729 61
+u Suzhou
+20
+r Guangzhou
+1410
+L
+u Bogota
+980
+a Chengdu
+276 132
+a Rio de Janeiro
+590 30
+r Chicago
+1337
+s Saint Petersburg
+1369
+u Qingdao
+91
+u Ho Chi Minh City
+612
+R Pune
+s Dongguan
+484
+u Nanjing
+1410
+u Chengdu
+1108
+a Chennai
+341 192
+R Dallas
+s Dongguan
+75
+L
+a Ho Chi Minh City
+184 26
+r Ho Chi Minh City
+612
+r Ho Chi Minh City
+1114
+a Philadelphia
+1294 136
+L
+r Nanjing
+1262

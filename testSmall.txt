@@ -1,0 +1,405 @@
+L
+A Barcelona
+A Surat
+A Hong Kong
+A Paris
+A Moscow
+A Chennai
+A Dalian
+A Dallas
+A Johannesburg
+A Santiago
+A Tehran
+A Country
+A Dalian
+A Madrid
+A Lima
+A Baghdad
+A London
+A Manila
+A Wuhan
+A Khartoum
+a Santiago
+1367 161
+a Hong Kong
+1264 40
+a Country
+689 165
+a Dalian
+1233 85
+a Surat
+852 188
+a Manila
+1204 151
+a Manila
+976 88
+a London
+52 159
+a London
+931 144
+a Baghdad
+971 50
+a Moscow
+391 42
+a Country
+404 93
+a Chennai
+277 87
+a Moscow
+877 194
+a Surat
+122 42
+a Baghdad
+1304 176
+a Baghdad
+291 159
+a Lima
+859 128
+a Manila
+1039 11
+a Wuhan
+1059 72
+a Dallas
+638 109
+a Lima
+1053 174
+a Dallas
+1344 172
+a Barcelona
+997 102
+a Moscow
+15 84
+a Moscow
+1256 57
+a Barcelona
+69 169
+a London
+848 77
+a Wuhan
+348 32
+a Surat
+146 190
+a Moscow
+374 85
+a Khartoum
+166 145
+a Manila
+1349 35
+a Country
+659 100
+a Dalian
+460 88
+a Dalian
+542 56
+a Paris
+298 48
+a Wuhan
+906 106
+a Chennai
+446 195
+a Khartoum
+755 86
+a Madrid
+255 162
+a Khartoum
+774 189
+a Manila
+753 82
+a Baghdad
+56 162
+a Dalian
+1259 196
+a Hong Kong
+97 2
+a Manila
+1084 43
+a Paris
+518 29
+a Moscow
+710 196
+a Tehran
+375 108
+a Chennai
+836 14
+a Santiago
+1186 103
+a Madrid
+815 186
+a Barcelona
+761 55
+a Paris
+1223 86
+a Hong Kong
+190 8
+a Manila
+1331 53
+a Country
+1277 0
+a Madrid
+269 7
+a Santiago
+94 189
+s Barcelona
+770
+s Wuhan
+1064
+s Santiago
+1375
+s Dalian
+1241
+s London
+851
+s Moscow
+718
+s London
+56
+s Hong Kong
+1273
+s Chennai
+841
+s Khartoum
+167
+s Surat
+853
+s Moscow
+1259
+s Baghdad
+984
+s Hong Kong
+102
+s Manila
+978
+s Madrid
+256
+s Barcelona
+1011
+s Dalian
+553
+s Dallas
+646
+s Wuhan
+354
+s London
+939
+s Barcelona
+769
+s Hong Kong
+1277
+s Santiago
+1187
+s Moscow
+393
+s Country
+661
+s Surat
+860
+s Manila
+1355
+s Country
+691
+s Moscow
+19
+s Country
+667
+s Manila
+977
+s Surat
+156
+s Barcelona
+1004
+s Dallas
+638
+s Moscow
+399
+s Dalian
+1264
+s Country
+1280
+s Wuhan
+907
+s Madrid
+828
+s Santiago
+1375
+s Paris
+311
+s Chennai
+456
+s Madrid
+825
+s Madrid
+823
+s Chennai
+460
+s London
+937
+s Baghdad
+1307
+s Wuhan
+349
+s Country
+691
+s Dalian
+550
+s Manila
+1353
+s Baghdad
+61
+s Moscow
+1256
+s Surat
+129
+s Khartoum
+172
+s Moscow
+882
+s Baghdad
+977
+s Surat
+134
+s Hong Kong
+1273
+s Country
+659
+s Khartoum
+777
+s Manila
+1040
+s Wuhan
+1059
+s Surat
+865
+s Country
+408
+s Baghdad
+973
+s Paris
+1226
+s Santiago
+100
+s Paris
+1227
+s London
+940
+s Moscow
+1269
+s Khartoum
+774
+s Barcelona
+69
+s Manila
+977
+s Wuhan
+354
+s London
+942
+s Barcelona
+763
+s Moscow
+18
+s Hong Kong
+204
+s Manila
+767
+s London
+56
+s Moscow
+386
+s Santiago
+108
+s Manila
+1339
+s Manila
+1040
+s Santiago
+1187
+s Country
+1288
+s Wuhan
+1062
+s Baghdad
+295
+s Madrid
+264
+s Chennai
+457
+s Surat
+866
+s Moscow
+378
+s Dalian
+1268
+s Manila
+1351
+s Dallas
+1354
+s Paris
+301
+s Manila
+976
+s Moscow
+398
+A Dongguan
+u Surat
+852
+R Barcelona
+A Osaka
+u Santiago
+1367
+s Dalian
+468
+r Baghdad
+56
+L
+a Madrid
+451 154
+A Country
+A Belo Horizonte
+r Baghdad
+291
+a Belo Horizonte
+1079 103
+L
+s Wuhan
+352
+r Baghdad
+1304
+r Surat
+146
+R Baghdad
+r Baghdad
+971
+s Manila
+989
+r Surat
+122
+u Dallas
+1344
+A Jakarta
+a Surat
+1137 83
+u Manila
+753
+s Lima
+865
+L
+s Dalian
+1241
+r Manila
+1204
+u Santiago
+1186
+A Dhaka
+L
+R Dongguan
+s Lima
+862
+s Moscow
+387
+L
+A London
+R Madrid
+a Jakarta
+261 84
+a Manila
+360 171
